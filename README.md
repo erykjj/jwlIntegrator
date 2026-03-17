@@ -16,6 +16,18 @@ Usage: jwlIntegrator.exe [-h | -v] <JWPUB archive>
    -v, --version    Show the version and exit.
 ```
 
+<details>
+<summary>What about other platforms?</summary><br/>
+
+- *jwlIntegrator* for **macOS** should be coming soon
+- on **Android**, stay on v15.6 and disable auto-updates in the Play Store
+  - what is installed carries over when you do decide to update (for now)
+  - if you are rooted, feel free to get in touch
+- **iOS** - I have no idea, since I don't use it
+- **Linux** - I wish we even had *JW Library*
+
+</details><br/>
+
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlIntegrator/releases.atom)
 
