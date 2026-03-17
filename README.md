@@ -23,7 +23,7 @@ Usage: jwlIntegrator.exe [-h | -v] <JWPUB archive>
 - on **Android**, stay on v15.6 and disable auto-updates in the Play Store
   - what is installed carries over when you do decide to update (for now)
   - if you are rooted, feel free to get in touch
-- **iOS** - I have no idea, since I don't use it
+- **iOS** - I have no idea since I don't use it
 - **Linux** - I wish we even had *JW Library*
 
 </details><br/>
