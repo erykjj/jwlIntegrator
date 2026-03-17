@@ -1,0 +1,35 @@
+name: 'macOS v1.0.0'
+
+on:
+  workflow_call:
+    inputs:
+      TAG:
+        required: true
+        type: string
+  workflow_dispatch:
+    inputs:
+      TAG:
+        default: 'testing'
+        required: true
+        type: string
+
+jobs:
+  build:
+    name: Build for macOS
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Package
+        run: |
+          mkdir -p dist
+          chmod +x bin/jwlIntegrator
+          xattr -c bin/jwlIntegrator
+          tar -czvf dist/jwlIntegrator_macos.tar.gz -C bin jwlIntegrator
+
+      - name: Upload binary
+        uses: actions/upload-artifact@v7
+        with:
+          name: jwlIntegrator_macos.tar.gz
+          path: dist/jwlIntegrator_macos.tar.gz

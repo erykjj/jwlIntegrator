@@ -1,0 +1,49 @@
+name: 'Windows v1.0.0'
+
+on:
+  workflow_call:
+    inputs:
+      TAG:
+        default: 'testing'
+        required: true
+        type: string
+  workflow_dispatch:
+    inputs:
+      TAG:
+        default: 'testing'
+        required: true
+        type: string
+
+jobs:
+  build:
+    name: Windows
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Package amd64
+        run: |
+          mkdir -p dist
+          mkdir -p temp
+          cp bin/jwlIntegrator-amd64.exe temp/jwlIntegrator.exe
+          zip -j dist/jwlIntegrator_windows_amd64.zip temp/jwlIntegrator.exe lib/sqlite3_64.dll lib/unzip.exe
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: jwlIntegrator_windows_amd64.zip
+          path: dist/jwlIntegrator_windows_amd64.zip
+
+      - name: Package arm64
+        run: |
+          rm -rf temp/*
+          cp bin/jwlIntegrator-arm64.exe temp/jwlIntegrator.exe
+          cp lib/sqlite3_ARM.dll temp/sqlite3.dll
+          zip -j dist/jwlIntegrator_windows_arm64.zip temp/jwlIntegrator.exe lib/sqlite3.dll
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: jwlIntegrator_windows_arm64.zip
+          path: dist/jwlIntegrator_windows_arm64.zip
