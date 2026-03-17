@@ -13,7 +13,7 @@ on:
         default: 'testing'
         required: true
         type: string
- on Windows
+
 jobs:
   build:
     name: Windows

@@ -4,6 +4,7 @@ on:
   workflow_call:
     inputs:
       TAG:
+        default: 'testing'
         required: true
         type: string
   workflow_dispatch:
