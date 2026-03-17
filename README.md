@@ -24,7 +24,7 @@ Usage: jwlIntegrator.exe [-h | -v] <JWPUB archive>
 <summary>What about other platforms?</summary><br/>
 
 - *jwlIntegrator* for **macOS** should be coming soon
-- on **Android**, stay on v15.6 and disable auto-updates in the Play Store
+- on **Android**, stay on [v15.6](https://www.jw.org/en/online-help/jw-library/android/manually-install-jw-library-android/) and disable auto-updates in the Play Store
   - what is installed carries over when you do decide to update (for now)
   - if you are rooted, feel free to get in touch
 - **iOS** - I have no idea since I don't use it
