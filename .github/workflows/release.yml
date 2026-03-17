@@ -16,7 +16,7 @@ jobs:
       TAG: ${{ github.ref_name }}
   release:
     name: Create release draft
-    needs: windows # [windows, macos]
+    needs: [windows, macos]
     runs-on: ubuntu-latest
     outputs:
       changelog-section: ${{ steps.extract.outputs.changelog_section }}
@@ -68,9 +68,6 @@ jobs:
           body: |
             ${{ steps.extract.outputs.changelog_section }}
           files: |
+            dist/jwlIntegrator_macos.tar.gz
             dist/jwlIntegrator_windows_amd64.zip
             dist/jwlIntegrator_windows_arm64.zip
-          # files: |
-          #   dist/jwlIntegrator_macos.tar.gz
-          #   dist/jwlIntegrator_windows_amd64.zip
-          #   dist/jwlIntegrator_windows_arm64.zip
