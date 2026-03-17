@@ -24,26 +24,26 @@ jobs:
 
       - name: Package amd64
         run: |
-          mkdir -p dist
           mkdir -p temp
           cp bin/jwlIntegrator-amd64.exe temp/jwlIntegrator.exe
-          zip -j dist/jwlIntegrator_windows_amd64.zip temp/jwlIntegrator.exe lib/sqlite3_64.dll lib/unzip.exe
+          zip -j temp/jwlIntegrator_windows_amd64.zip temp/jwlIntegrator.exe lib/sqlite3_64.dll lib/unzip.exe
 
       - name: Upload artifact
         uses: actions/upload-artifact@v7
         with:
           name: jwlIntegrator_windows_amd64.zip
-          path: dist/jwlIntegrator_windows_amd64.zip
+          path: temp/jwlIntegrator_windows_amd64.zip
 
       - name: Package arm64
         run: |
           rm -rf temp/*
+          mkdir -p temp
           cp bin/jwlIntegrator-arm64.exe temp/jwlIntegrator.exe
           cp lib/sqlite3_ARM.dll temp/sqlite3.dll
-          zip -j dist/jwlIntegrator_windows_arm64.zip temp/jwlIntegrator.exe lib/sqlite3.dll
+          zip -j temp/jwlIntegrator_windows_arm64.zip temp/jwlIntegrator.exe temp/sqlite3.dll
 
       - name: Upload artifact
         uses: actions/upload-artifact@v7
         with:
           name: jwlIntegrator_windows_arm64.zip
-          path: dist/jwlIntegrator_windows_arm64.zip
+          path: temp/jwlIntegrator_windows_arm64.zip
