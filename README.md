@@ -1,6 +1,8 @@
 #### **DISCLAIMER**: Whether it be *blockers* to remove content/functionality or *add-ons* to augment it, there will always be differing opinions. For example, it is your decision whether you use an ad-blocker or not, and I respect your conscience.
 
-### Commandline/terminal **utility** to integrate custom `.jwpub` archives into *JW Library*[^1] on Windows and macOS
+# jwlIntegrator
+
+Commandline/terminal **utility** to integrate custom `.jwpub` archives into *JW Library*[^1] on Windows and macOS
 
 ## Downloads
 
