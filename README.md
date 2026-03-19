@@ -6,7 +6,7 @@ Commandline/terminal **utility** to integrate custom `.jwpub` archives into *JW 
 
 ## Downloads
 
-- [macOS (universal)](https://github.com/erykjj/jwlIntegrator/releases/latest/download/jwlIntegrator_macos.tar.gz) - **UNTESTED** - please report
+- macOS - **COMING SOON**
 - [Windows (amd64)](https://github.com/erykjj/jwlIntegrator/releases/latest/download/jwlIntegrator_windows_amd64.zip)
 - [Windows (ARM64)](https://github.com/erykjj/jwlIntegrator/releases/latest/download/jwlIntegrator_windows_arm64.zip)
 
