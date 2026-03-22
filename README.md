@@ -12,8 +12,28 @@ Commandline/terminal **utility** to integrate custom `.jwpub` archives into *JW 
 
 ## Usage
 
+### Windows
+
+Unzip and execute:
 ```
 Usage: jwlIntegrator.exe [-h | -v] <JWPUB archive>
+
+ Options:
+   -h, --help       Show this help message and exit.
+   -v, --version    Show the version and exit.
+```
+
+### macOS
+
+Unzip and give permissions (only once after downloading an unsigned binary):
+
+```
+xattr -cr jwlIntegrator
+```
+
+then:
+```
+Usage: jwlIntegrator [-h | -v] <JWPUB archive>
 
  Options:
    -h, --help       Show this help message and exit.
