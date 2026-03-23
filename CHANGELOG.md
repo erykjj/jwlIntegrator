@@ -11,6 +11,12 @@
 ### Removed
 
 ____
+## [v0.33.0] - 2026-03-22
+### Changed
+
+- Fixed macOS
+- Improved Windows
+
 ## [v0.21.0] - 2026-03-18
 ### Changed
 
@@ -28,6 +34,7 @@ ____
 - Initial realease fow Windows
 
 ____
+[v0.33.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.33.0
 [v0.21.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.21.0
 [v0.20.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.20.0
 [v0.11.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.11.0
