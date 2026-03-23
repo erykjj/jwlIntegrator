@@ -1,4 +1,4 @@
-name: 'Windows v1.0.1'
+name: 'Windows v1.0.2'
 
 on:
   workflow_call:
@@ -39,8 +39,8 @@ jobs:
           rm -rf temp/*
           mkdir -p temp
           cp bin/jwlIntegrator-arm64.exe temp/jwlIntegrator.exe
-          cp lib/sqlite3_ARM.dll temp/sqlite3.dll
-          zip -j temp/jwlIntegrator_windows_arm64.zip temp/jwlIntegrator.exe temp/sqlite3.dll
+          cp lib/sqlite3_ARM.dll temp/sqlite3_64.dll
+          zip -j temp/jwlIntegrator_windows_arm64.zip temp/jwlIntegrator.exe temp/sqlite3_64.dll lib/unzip.exe
 
       - name: Upload artifact
         uses: actions/upload-artifact@v7
