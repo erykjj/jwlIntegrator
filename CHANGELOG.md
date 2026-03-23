@@ -11,6 +11,15 @@
 ### Removed
 
 ____
+## [v0.35.0] - 2026-03-23
+### Changed
+
+- Improved handling for Bibles
+
+### Fixed
+
+- Add missing `unzip.exe` and rename `sqlite3_64.dll` for Widows-ARM64
+
 ## [v0.33.0] - 2026-03-22
 ### Changed
 
@@ -34,6 +43,7 @@ ____
 - Initial realease fow Windows
 
 ____
+[v0.35.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.35.0
 [v0.33.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.33.0
 [v0.21.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.21.0
 [v0.20.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.20.0
