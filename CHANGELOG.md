@@ -11,6 +11,12 @@
 ### Removed
 
 ____
+## [v0.39.0] - 2026-04-01
+### Changed
+
+- Handle older schema versions
+- Improved (still trying) macOS support
+
 ## [v0.35.0] - 2026-03-23
 ### Changed
 
