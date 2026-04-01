@@ -43,7 +43,7 @@ Usage: jwlIntegrator [-h | -v] <JWPUB archive>
 <details>
 <summary>What about other platforms?</summary><br/>
 
-- on **Android**, stay on [v15.6](https://www.jw.org/en/online-help/jw-library/android/manually-install-jw-library-android/) and disable auto-updates in the Play Store
+- on **Android**, stay on v15.6.1[^2] if you can and disable auto-updates in the Play Store
   - what is installed carries over when you do decide to update (for now)
   - if you are rooted, feel free to get in touch
 - **iOS** - downgrade to v15.6 (technically-challenging)
@@ -60,3 +60,4 @@ My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlma
 ____
 #### Footnotes:
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
+[^2]: Check (APKMirror)[https://www.apkmirror.com/apk/jehovahs-witnesses/jw-library/jw-library-15-6-1-release/] or (uptodown)[https://jw-library.en.uptodown.com/android/download/1136512921], etc. - at your own risk ;-)
