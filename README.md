@@ -60,4 +60,4 @@ My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlma
 ____
 #### Footnotes:
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
-[^2]: Check (APKMirror)[https://www.apkmirror.com/apk/jehovahs-witnesses/jw-library/jw-library-15-6-1-release/] or (uptodown)[https://jw-library.en.uptodown.com/android/download/1136512921], etc. - at your own risk ;-)
+[^2]: Check [APKMirror](https://www.apkmirror.com/apk/jehovahs-witnesses/jw-library/jw-library-15-6-1-release/) or [uptodown](https://jw-library.en.uptodown.com/android/download/1136512921), etc. - at your own risk ;-)
