@@ -51,6 +51,8 @@ Usage: jwlIntegrator [-h | -v] <JWPUB archive>
 
 </details><br/>
 
+<p align="center"><img src=".github/inf.png" width=50 title="infiniti@inventati.org"></p>
+
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlIntegrator/releases.atom)
 
