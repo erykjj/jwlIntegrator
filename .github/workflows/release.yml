@@ -32,6 +32,11 @@ jobs:
           path: dist
           merge-multiple: true
 
+      - name: Download Android artifact
+        run: |
+          mkdir -p dist
+          cp bin/jwlIntegrator_android.sh dist/
+
       - name: Extract section from changelog
         id: extract
         env:
@@ -68,7 +73,7 @@ jobs:
           body: |
             ${{ steps.extract.outputs.changelog_section }}
           files: |
-            bin/jwlIntegrator_android.sh
+            dist/jwlIntegrator_android.sh
             dist/jwlIntegrator_macos.tar.gz
             dist/jwlIntegrator_windows_amd64.zip
             dist/jwlIntegrator_windows_arm64.zip
