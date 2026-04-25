@@ -26,11 +26,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Download all artifacts
-        uses: actions/download-artifact@v8
-        with:
-          path: dist
-          merge-multiple: true
+      # - name: Download all artifacts
+      #   uses: actions/download-artifact@v8
+      #   with:
+      #     path: dist
+      #     merge-multiple: true
 
       - name: Extract section from changelog
         id: extract
@@ -68,7 +68,7 @@ jobs:
           body: |
             ${{ steps.extract.outputs.changelog_section }}
           files: |
-            dist/jwlIntegrator_android.sh
-            dist/jwlIntegrator_macos.tar.gz
-            dist/jwlIntegrator_windows_amd64.zip
-            dist/jwlIntegrator_windows_arm64.zip
+            bin/jwlIntegrator_android.sh
+            bin/jwlIntegrator_macos.tar.gz
+            bin/jwlIntegrator_windows_amd64.zip
+            bin/jwlIntegrator_windows_arm64.zip
