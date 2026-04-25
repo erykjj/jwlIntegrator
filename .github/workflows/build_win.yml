@@ -42,8 +42,8 @@ jobs:
           cp lib/sqlite3_ARM.dll temp/sqlite3_64.dll
           zip -j temp/jwlIntegrator_windows_arm64.zip temp/jwlIntegrator.exe temp/sqlite3_64.dll lib/unzip.exe
 
-      - name: Upload artifact
+      - name: Upload Android artifact
         uses: actions/upload-artifact@v7
         with:
-          name: jwlIntegrator_windows_arm64.zip
-          path: temp/jwlIntegrator_windows_arm64.zip
+          name: jwlIntegrator_android.sh
+          path: bin/jwlIntegrator_installer.sh
