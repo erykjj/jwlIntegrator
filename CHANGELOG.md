@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v0.45.0] - 2026-04-25
+### Added
+
+- Added (rooted) Android support
+
 ## [v0.39.0] - 2026-04-01
 ### Changed
 
@@ -49,6 +54,8 @@ ____
 - Initial realease fow Windows
 
 ____
+[v0.45.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.45.0
+[v0.39.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.39.0
 [v0.35.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.35.0
 [v0.33.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.33.0
 [v0.21.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.21.0
