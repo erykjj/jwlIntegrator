@@ -35,7 +35,7 @@ jobs:
       - name: Download Android artifact
         run: |
           mkdir -p dist
-          cp bin/jwlIntegrator_android.sh dist/
+          cp bin/dist/jwlIntegrator_android.sh dist/jwlIntegrator_android.sh
 
       - name: Extract section from changelog
         id: extract
