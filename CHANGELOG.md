@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Fixed for macOS
+
 ### Fixed
 
 ### Removed
