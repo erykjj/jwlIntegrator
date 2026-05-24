@@ -11,10 +11,10 @@
 ### Removed
 
 ____
-## [v0.46.0] - 2026-05-23
+## [v0.46.0] - 2026-05-24
 ### Changed
 
-- Fixes for macOS
+- Testing fixes for macOS
 
 ## [v0.45.0] - 2026-04-25
 ### Added
