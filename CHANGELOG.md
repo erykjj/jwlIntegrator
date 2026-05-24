@@ -11,10 +11,10 @@
 ### Removed
 
 ____
-## [v0.46.0] - 2026-05-24
+## [v0.47.0] - 2026-05-24
 ### Changed
 
-- Testing fixes for macOS
+- Fixes for macOS
 
 ## [v0.45.0] - 2026-04-25
 ### Added
@@ -59,7 +59,7 @@ ____
 - Initial realease fow Windows
 
 ____
-[v0.46.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.46.0
+[v0.47.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.47.0
 [v0.45.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.45.0
 [v0.39.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.39.0
 [v0.35.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.35.0
