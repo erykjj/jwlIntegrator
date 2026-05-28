@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Handle potential path issues
+
 ### Fixed
 
 ### Removed
