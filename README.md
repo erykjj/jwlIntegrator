@@ -13,6 +13,8 @@ Commandline/terminal **utility** to integrate custom `.jwpub` archives into *JW 
 
 ## Usage
 
+**Note**: it's best if you put the JWPUB archive in the same directory as the executable/binary; it will work with a full path, but be careful with paths containing spaces.
+
 ### Windows
 
 Unzip and execute:
