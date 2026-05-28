@@ -6,13 +6,16 @@
 
 ### Changed
 
-- Handle potential path issues
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v0.49.0] - 2026-05-28
+### Changed
+
+- Handle potential path issues
+
 ## [v0.48.0] - 2026-05-25
 ### Added
 
@@ -70,6 +73,7 @@ ____
 - Initial realease fow Windows
 
 ____
+[v0.49.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.49.0
 [v0.48.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.48.0
 [v0.47.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.47.0
 [v0.45.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.45.0
