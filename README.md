@@ -1,3 +1,5 @@
+[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlIntegrator/releases.atom) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erykjj/jwlIntegrator/total?style=plastic)](https://github.com/erykjj/jwlIntegrator/releases/latest)
+
 **DISCLAIMER**: Whether we deal with *blockers* to remove content/functionality or *add-ons* to augment it, there will always be differing opinions. For instance, people use ad-blockers and VPNs for different reasons. I respect your conscience.
 
 # jwlIntegrator
@@ -70,8 +72,6 @@ then:
 <p align="center"><img src=".github/inf.png" width=50 title="infiniti@inventati.org"></p>
 
 ____
-[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlIntegrator/releases.atom)
-
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlIntegrator/issues).
 
 My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager), [**jwlFusion**](https://github.com/erykjj/jwlFusion), [**jwlFusion** (Android)](https://github.com/erykjj/jwlFusion-app) & [**jwlFission**](https://github.com/erykjj/jwlFission-app)
