@@ -11,7 +11,7 @@ Commandline/terminal **utility** to integrate custom `.jwpub` archives into *JW 
 - [macOS (universal)](https://github.com/erykjj/jwlIntegrator/releases/latest/download/jwlIntegrator_macos.tar.gz)
 - [Windows (amd64)](https://github.com/erykjj/jwlIntegrator/releases/latest/download/jwlIntegrator_windows_amd64.zip)
 - [Windows (ARM64)](https://github.com/erykjj/jwlIntegrator/releases/latest/download/jwlIntegrator_windows_arm64.zip)
-- [Android (aarch64)](https://github.com/erykjj/jwlIntegrator/releases/latest/download/jwlIntegrator_android.sh)
+- [Android (aarch64)](https://github.com/erykjj/jwlIntegrator/releases/latest/download/jwlIntegrator_android.sh) - see [below](https://github.com/erykjj/jwlIntegrator#android)
 
 ## Usage
 
