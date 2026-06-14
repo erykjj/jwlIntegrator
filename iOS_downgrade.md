@@ -5,10 +5,10 @@ This was contributed (not verified by me).
 1. **Download [*iMazing*](https://imazing.com/faq/imazing-trial)**
 
 2. **Backup your notes, highlights, and bookmarks**
-    Go to *Personal Study > Create Backup*
+   - Go to *Personal Study > Create Backup*
 
 3. **Downgrade using *iMazing***
-   The most important part: **get *JW Library* v15.6, sign it with your Apple ID, and save the `.IPA` file** so as to use it later (see the last slide: "Export .IPA").
+   - The most important part: **get *JW Library* v15.6, sign it with your Apple ID, and save the `.IPA` file** so as to use it later (see the last slide: "Export .IPA").
 
    ![1](https://github.com/erykjj/jwlIntegrator/blob/main/res/1.jpg)
 

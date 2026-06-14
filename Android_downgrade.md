@@ -5,7 +5,7 @@ Read this through first to make sure you understand all the steps:
 1. **Download [JW Library v15.6.1](https://www.apkmirror.com/apk/jehovahs-witnesses/jw-library/jw-library-15-6-1-release/)**
 
 2. **Backup your notes, highlights, and bookmarks**
-   Go to *Personal Study > Create Backup*
+   - Go to *Personal Study > Create Backup*
 
 3. **Uninstall and reinstall**
     - Uninstall the current version of JW Library
