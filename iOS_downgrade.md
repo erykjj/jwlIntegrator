@@ -1,0 +1,21 @@
+# Downgrading JW Library on iOS
+
+This was contributed (not verified by me).
+
+You will require an app called *iMazing* (which has a trial version).
+
+The most important part: **get *JW Library* v15.6, sign it with your Apple ID, and save the IPA file** so as to use it later. 
+
+![1](1.jpg)
+
+![2](2.jpg)
+
+![3](3.jpg)
+
+![4](4.jpg)
+
+![5](5.jpg)
+
+![6](6.jpg)
+
+![7](7.jpg)
