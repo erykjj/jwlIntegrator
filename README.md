@@ -45,7 +45,9 @@ Usage: jwlIntegrator [-h | -v] <JWPUB archive>
 
 ### Android
 
-You *must* be rooted (ie., be the administrator of your device)[^2], and you will need to have [Termux](https://termux.dev/en/)[^3] installed. On devices *without root*, you will need to [downgrade to v15.6.1](https://github.com/erykjj/jwlIntegrator/blob/main/Android_downgrade.md)
+If you are *not* rooted[^2], you will need to [downgrade to v15.6.1](https://github.com/erykjj/jwlIntegrator/blob/main/Android_downgrade.md).
+
+If you are rooted (ie., are the administrator of your device), you will need to have [Termux](https://termux.dev/en/)[^3] installed.
 
 First, install jwlIntegrator as root within Termux. For example, if you have it in Download:
 
@@ -61,7 +63,7 @@ then:
 
 ### iOS
 
-You will need to downgrade to v15.6 (technically-challenging)
+You will need to [downgrade to v15.6](https://github.com/erykjj/jwlIntegrator/blob/main/iOS_downgrade.md).
 
 
 <p align="center"><img src=".github/inf.png" width=50 title="infiniti@inventati.org"></p>
