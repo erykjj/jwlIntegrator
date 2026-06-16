@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/releases-orange?logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlIntegrator/releases.atom) [![GitHub Downloads](https://img.shields.io/github/downloads/erykjj/jwlIntegrator/total)](https://github.com/erykjj/jwlIntegrator/releases/latest)
+[![Static Badge](https://img.shields.io/badge/releases-orange?logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlIntegrator/releases.atom) [![GitHub Downloads](https://img.shields.io/github/downloads/erykjj/jwlIntegrator/total?style=flat)](https://github.com/erykjj/jwlIntegrator/releases/latest)
 
 **DISCLAIMER**: Whether we deal with *blockers* to remove content/functionality or *add-ons* to augment it, there will always be differing opinions. For instance, people use ad-blockers and VPNs for different reasons. I respect your conscience.
 
