@@ -66,7 +66,7 @@ then:
 You will need to [downgrade to v15.6](https://github.com/erykjj/jwlIntegrator/blob/main/iOS_downgrade.md).
 
 
-<p align="center"><img src=".github/inf.png" width=50 title="infiniti@inventati.org"></p>
+<p align="center"><img src=".github/inf.png" width=50 title="proxy+infiniti@ik.me"></p>
 
 ____
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlIntegrator/issues).
