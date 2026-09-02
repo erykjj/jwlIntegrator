@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v1.0.0] - 2026-09-02
+### Changed
+
+- Tag as stable
+
 ## [v0.49.0] - 2026-05-28
 ### Changed
 
@@ -73,6 +78,7 @@ ____
 - Initial realease fow Windows
 
 ____
+[v1.0.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v1.0.0
 [v0.49.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.49.0
 [v0.48.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.48.0
 [v0.47.0]:https://github.com/erykjj/jwlIntegrator/releases/tag/v0.47.0
