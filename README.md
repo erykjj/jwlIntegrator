@@ -2,7 +2,7 @@
 
 # jwlIntegrator
 
-Commandline/terminal **utility** to integrate custom `.jwpub` archives into *JW Library*[^1] on Windows and macOS — as one would supplement/complement a physical library (personal or in a Kingdom Hall) with an atlas, dictionaries, and other such secular publications. Or, if you prefer a food analogy, these “unofficial” publications are not the meal, but the non-essential extras, like napkins and candles, or like the hot-sauce that some take with them to a restaurant :-)
+Commandline/terminal **utility** to integrate custom `.jwpub` archives into *JW Library*[^1] on Windows and macOS (and rooted Android) — as one would supplement/complement a physical library (personal or in a Kingdom Hall) with an atlas, dictionaries, and other such secular publications. Or, if you prefer a food analogy, such “unofficial” publications are not the meal, but the non-essential extras, like napkins and candles, or like the hot-sauce that some take with them to a restaurant :-)
 
 Whether we deal with *blockers* to remove content/functionality or *add-ons* to augment it, there will always be differing opinions. For instance, people use ad-blockers and VPNs for different reasons. I respect your conscience.
 
