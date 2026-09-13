@@ -11,7 +11,7 @@
 ### Removed
 
 ____
-## [v1.0.1] - 2026-09-13
+## [v1.0.2] - 2026-09-13
 ### Added
 
 - Added support for Android x86_64 (needs testing)
