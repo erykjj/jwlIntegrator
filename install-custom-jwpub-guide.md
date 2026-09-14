@@ -13,15 +13,15 @@ Currently, the free (trial) version of iMazing does not allow you to download ol
 
 ## What you need
 
-- A Mac
-- An iPhone or iPad
-- A USB cable
-- An Apple Account
-- An internet connection
+- iMac or MacBook
+- iPhone or iPad
+- USB cable
+- Apple Account
+- Internet connection
 
-> ⚠️ **IMPORTANT:** Before proceeding, make sure to make a backup of your JW Library, including your notes, highlights and playlists. Even if the method described in this guide does not work for you, your backup will keep your data safe.
+> ⚠️ **IMPORTANT:** Before proceeding, **make sure to make a backup of your personal JW Library data** (notes, highlights and playlists). Even if the method described in this guide does not work for you, your backup will keep your data safe.
 
-> 📌 **PLEASE NOTE:** The archived .ipa file obtained through this process is downloaded from the official App Store and is tied to your personal Apple Account. Therefore, it cannot be shared with other people. Each person needs to obtain their own copy.
+> 📌 **NOTE:** The archived `.ipa` file obtained through this process is downloaded from the official App Store and is tied to your personal Apple Account. Therefore, it cannot be shared with other people. Each person needs to obtain their own copy.
 
 ## 1. Preliminary steps
 
