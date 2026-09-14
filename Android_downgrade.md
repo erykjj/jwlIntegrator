@@ -10,7 +10,7 @@ Read this through first to make sure you understand all the steps:
 3. **Uninstall and reinstall**
     - Uninstall the current version of *JW Library* from your device
     - Install the downloaded APK file
-      - You will be starting from scratch with no data — this is expected.
+      - You will be starting from scratch with no data — this is expected
 
 4. **Install all the JWPUBs you need/want**
    - You can install them normally/as before (without *jwlIntegrator*)
