@@ -19,7 +19,7 @@ Currently, the free (trial) version of iMazing does not allow you to download ol
 - Apple Account
 - Internet connection
 
-> ⚠️ **IMPORTANT:** Before proceeding, **make sure to make a backup of your personal JW Library data** (notes, highlights and playlists). Even if the method described in this guide does not work for you, your backup will keep your data safe.
+> ⚠️ **IMPORTANT:** Before proceeding, **make sure to make a backup of your personal JW Library data** (notes, highlights and playlists). Go to *Personal Study > Create Backup*. Even if the method described in this guide does not work for you, your backup will keep your data safe.
 
 > 📌 **NOTE:** The archived `.ipa` file obtained through this process is downloaded from the official App Store and is tied to your personal Apple Account. Therefore, it cannot be shared with other people. Each person needs to obtain their own copy.
 
@@ -114,7 +114,7 @@ Once you have confirmed that your backup is safe and that you have successfully 
 
 ## 8. Install JW Library 15.6
 
-Right-click the newly imported JW Library 15.6 entry and select **Install** (see image below). iMazing will ask you to confirm your Apple Account password; wait for the installation to finish.
+Right-click the newly imported JW Library 15.6 entry and select **Install** (see image below). iMazing will ask you to confirm your Apple Account password; wait for the installation to finish. You will be starting from scratch with no data — this is expected.
 
 You can now delete the original `JWLibrary-15.6.ipa` file from your Downloads folder. Keep the copy in iMazing's Library.
 
