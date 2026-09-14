@@ -1,14 +1,12 @@
-# How to Install Custom JWPUB Files on an iPhone or iPad Using Your Mac (without Jailbreak)
+# How to install custom JWPUB archives on an iPhone or iPad using your Mac (without Jailbreak)
 
-**Difficulty:** Intermediate (6.5/10) — some experience with using Terminal and command-line commands is helpful.
+**Difficulty:** Intermediate — some experience with using Terminal and command-line commands is helpful.
 
-**Goal:** To download and install an older version of JW Library (version 15.6), which allows you to import custom .jwpub files. Once the custom .jwpub files are installed, JW Library can be updated to the latest version, while the custom files remain in the app.
-
-**Method:** We will use two tools — ipatool and iMazing.
+Once the custom `.jwpub` files are installed, JW Library can be updated to the latest version, while the custom files remain in the app. We will use two tools — ipatool and iMazing.
 
 | Tool | Purpose |
 |---|---|
-| `ipatool` | Downloads the older version of JW Library |
+| ipatool | Downloads the older version of JW Library |
 | iMazing | Installs it on your iPhone or iPad |
 
 Currently, the free (trial) version of iMazing does not allow you to download older versions of apps, which is why we need a second tool. Since ipatool is a command-line tool, you can simply open your Mac's Terminal app and copy and paste the commands provided in this guide.
