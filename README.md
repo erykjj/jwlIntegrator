@@ -63,7 +63,7 @@ then:
 
 ### iOS
 
-You will need to [downgrade to v15.6](https://github.com/erykjj/jwlIntegrator/blob/main/install-custom-jwpub-guide.md). [Alternate guide](https://github.com/erykjj/jwlIntegrator/blob/main/iOS_downgrade.md).
+You will need to [downgrade to v15.6](https://github.com/erykjj/jwlIntegrator/blob/main/install-custom-jwpub-guide.md). Or, [alternate guide](https://github.com/erykjj/jwlIntegrator/blob/main/iOS_downgrade.md).
 
 
 <p align="center"><img src=".github/inf.png" width=50 title="proxy+infiniti@ik.me"></p>
