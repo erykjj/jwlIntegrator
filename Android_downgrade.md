@@ -1,4 +1,4 @@
-# Downgrading JW Library on Android
+# *JW Library* downgrade guide for Android
 
 Read this through first to make sure you understand all the steps:
 
