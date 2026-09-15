@@ -18,7 +18,7 @@ Whether we deal with *blockers* to remove content/functionality or *add-ons* to 
 
 ### Windows
 
-Unzip and execute:
+Unzip and execute (from within script directory):
 ```
 Usage: jwlIntegrator.exe [-h | -v] <JWPUB archive>
 
@@ -35,7 +35,7 @@ Unzip and give permissions (only once after downloading an unsigned binary):
 xattr -cr jwlIntegrator
 ```
 
-then:
+then (from within script directory):
 ```
 Usage: jwlIntegrator [-h | -v] <JWPUB archive>
 
