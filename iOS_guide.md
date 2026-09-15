@@ -1,6 +1,6 @@
-# How to install custom JWPUB archives on an iPhone/iPad using your iMac/MacBook ("Mac") (without Jailbreak)
+# *JW Library* downgrade guide for iOS
 
-**Goal:** To download and install an older version of *JW Library* (v15.6), which can be used to import custom JWPUB archives. Once the custom JWPUB files are installed, *JW Library* can be updated to the latest version, while the custom files remain in the app.
+**Goal:** To download and install an older version of *JW Library* (v15.6) in order to install custom JWPUB archives on an iPhone/iPad using your iMac/MacBook ("Mac") (without jailbreaking). Once the custom JWPUB files are installed, *JW Library* can be updated to the latest version, while the custom JWPUBs remain in the app.
 
 **Difficulty:** Intermediate — some experience with using Terminal and command-line commands is helpful.
 
@@ -26,7 +26,7 @@ Search for and open Terminal on your Mac.
 
 First, install Homebrew, which will allow us to install the other tools needed for this process.
 
-Inside Terminal, run the following command:
+Inside Terminal, run (copy and paste or type) the following command:
 
 ```bash
 if command -v brew >/dev/null 2>&1; then
@@ -38,7 +38,7 @@ fi
 
 If Homebrew is already installed, you'll see a message saying so and can continue. Otherwise, Homebrew will be installed on your Mac. This may take a while, and the installation may ask for your Mac's login password; enter the password when prompted.
 
-After Homebrew has been successfully installed, copy and paste the following commands:
+After Homebrew has been successfully installed, run the following commands:
 
 ```bash
 brew install ipatool
@@ -63,13 +63,13 @@ Follow the instructions to sign in with your Apple Account.
 
 Once you've successfully logged in, you can download the older version of *JW Library* directly from the App Store...
 
-**For an iPhone** inside Terminal, paste (or type):
+**For an iPhone** inside Terminal, run:
 
 ```bash
 ipatool download --app-id 672417831 --external-version-id 878901217 --platform iphone --output ~/Downloads/JWLibrary-15.6.ipa --purchase
 ```
 
-**For an iPad** inside Terminal, paste (or type):
+**For an iPad** inside Terminal, run:
 
 ```bash
 ipatool download --app-id 672417831 --external-version-id 878901217 --platform ipad --output ~/Downloads/JWLibrary-15.6.ipa --purchase
@@ -87,7 +87,7 @@ To install the older version of the *JW Library* we just downloaded, delete the 
 
 After deleting *JW Library* from your device, you are ready to install the older version.
 
-Make sure your device is connected to your Mac. Inside Terminal, type or paste the following command:
+Make sure your device is connected to your Mac. Inside Terminal, run:
 
 ```bash
 ideviceinstaller install ~/Downloads/JWLibrary-15.6.ipa
