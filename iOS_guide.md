@@ -1,4 +1,6 @@
-# *JW Library* downgrade guide for iOS
+# *JW Library* roll-back guide for iOS
+
+Read this through first to make sure you understand all the steps:
 
 **Goal:** To download and install an older version of *JW Library* (v15.6) in order to install custom JWPUB archives on an iPhone/iPad using your iMac/MacBook ("Mac") (without jailbreaking). Once the custom JWPUB files are installed, *JW Library* can be updated to the latest version, while the custom JWPUBs remain in the app.
 
@@ -16,7 +18,7 @@
 - Apple Account
 - Internet connection
 
-> ⚠️ **IMPORTANT:** Before proceeding, **make sure to make a backup of your personal *JW Library* data** (notes, highlights and playlists). Go to *Personal Study > Create Backup*. Even if the method described in this guide does not work for you, your backup will keep your data safe.
+> ⚠️ **IMPORTANT:** Before proceeding, **make sure to make a backup of your personal *JW Library* data** (notes, highlights and playlists). Go to *Personal Study → Create Backup*.
 
 > 📌 **NOTE:** The older `JWLibrary-15.6.ipa` app file obtained through this process is downloaded from the official App Store and is tied to your personal Apple Account. Therefore, it cannot be shared with other people. Each person needs to obtain their own copy.
 
@@ -103,6 +105,6 @@ You are now ready to install your custom JWPUB archives to your device. If the f
 
 Once you have installed everything you need, you can safely update *JW Library* to the latest version; your custom JWPUB archives will remain installed after the update.
 
-At this point, you can restore your saved backup and download your official Bibles, publications, videos, etc.
+At this point, you can restore your saved backup and download your official Bibles, publications, videos, etc. Go to *Personal Study → Restore Backup*.
 
 You may wish to keep the downloaded `JWLibrary-15.6.ipa` file on your Mac in case you need to repeat the process (starting with step #4).
