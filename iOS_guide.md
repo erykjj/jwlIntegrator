@@ -2,7 +2,7 @@
 
 Read this through first to make sure you understand all the steps:
 
-**Goal:** Install an older version of *JW Library* (v15.6) on an iPhone/iPad using your iMac/MacBook ("Mac") (without jailbreaking) so that custom JWPUB archives can be installed. Once the custom JWPUB files are added, *JW Library* can be updated to the latest version, and the custom JWPUBs will remain in the app.
+**Goal:** Install an older version of *JW Library* (v15.6) on an iPhone/iPad using your iMac/MacBook ("Mac") so that custom JWPUB archives can be installed. Once the custom JWPUB files are added, *JW Library* can be updated to the latest version, and the custom JWPUBs will remain in the app.
 
 **Difficulty:** Intermediate — some experience with using Terminal and command-line commands is helpful.
 
