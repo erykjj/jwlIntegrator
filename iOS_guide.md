@@ -2,13 +2,13 @@
 
 Read this through first to make sure you understand all the steps:
 
-**Goal:** To download and install an older version of *JW Library* (v15.6) in order to install custom JWPUB archives on an iPhone/iPad using your iMac/MacBook ("Mac") (without jailbreaking). Once the custom JWPUB files are installed, *JW Library* can be updated to the latest version, while the custom JWPUBs remain in the app.
+**Goal:** Install an older version of *JW Library* (v15.6) on an iPhone/iPad using your iMac/MacBook ("Mac") (without jailbreaking) so that custom JWPUB archives can be installed. Once the custom JWPUB files are added, *JW Library* can be updated to the latest version, and the custom JWPUBs will remain in the app.
 
 **Difficulty:** Intermediate — some experience with using Terminal and command-line commands is helpful.
 
 **Duration:** About 20 to 30 minutes.
 
-**Important:** The process involves re-installing *JW Library*, so you will need to re-download all your Bible, publications, videos, etc.
+**Important:** The process involves re-installing *JW Library*, so you will need to re-download all your Bibles, publications, videos, etc.
 
 ## What you need
 
