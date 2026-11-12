@@ -65,6 +65,7 @@ then:
 ### iOS
 
 You will need to [roll back to v15.6](https://github.com/erykjj/jwlIntegrator/blob/main/iOS_guide.md).
+Here is a script to help with that: [rollback.sh](https://github.com/erykjj/jwlIntegrator/releases/latest/download/rollback.sh)
 
 
 <p align="center"><img src=".github/inf.png" width=50 title="proxy+infiniti@ik.me"></p>
