@@ -7,6 +7,7 @@
 
 set -Eeuo pipefail
 
+VERSION="1.0.0"
 APP_ID="672417831"
 VERSION_ID="878901217"
 IPA="$HOME/Downloads/JWLibrary-15.6.ipa"
@@ -193,6 +194,7 @@ error_handler() {
     echo "Failed stage: $CURRENT_STAGE"
     echo "Step: $CURRENT_STEP of $TOTAL_STEPS"
     echo "Exit code: $exit_code"
+    echo "Script version: $VERSION"
     echo "Script line: $failed_line"
     echo "Failed command: $failed_command"
     echo
