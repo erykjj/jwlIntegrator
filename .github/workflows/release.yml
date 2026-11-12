@@ -1,4 +1,4 @@
-name: 'Draft Release v1.0.1'
+name: 'Draft Release v1.1.0'
 
 on:
   push:
@@ -32,10 +32,12 @@ jobs:
           path: dist
           merge-multiple: true
 
-      - name: Download Android artifact
+      - name: Download other artifacts
         run: |
           mkdir -p dist
           cp bin/jwlIntegrator_installer.sh dist/jwlIntegrator_android.sh
+          cp bin/rollback.sh dist/rollback.sh
+
 
       - name: Extract section from changelog
         id: extract
@@ -77,3 +79,4 @@ jobs:
             dist/jwlIntegrator_macos.tar.gz
             dist/jwlIntegrator_windows_amd64.zip
             dist/jwlIntegrator_windows_arm64.zip
+            dist/rollback.sh
