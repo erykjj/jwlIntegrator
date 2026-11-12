@@ -65,19 +65,13 @@ Follow the instructions to sign in with your Apple Account.
 
 Once you've successfully logged in, you can download the older version of *JW Library* directly from the App Store...
 
-**For an iPhone** inside Terminal, run:
+Inside Terminal, run:
 
 ```bash
-ipatool download --app-id 672417831 --external-version-id 878901217 --platform iphone --output ~/Downloads/JWLibrary-15.6.ipa --purchase
+ipatool download --app-id 672417831 --external-version-id 878901217 --output ~/Downloads/JWLibrary-15.6.ipa --purchase
 ```
 
-**For an iPad** inside Terminal, run:
-
-```bash
-ipatool download --app-id 672417831 --external-version-id 878901217 --platform ipad --output ~/Downloads/JWLibrary-15.6.ipa --purchase
-```
-
-> 📌 **NOTE:** Though we are using the `--purchase` flag, there is no charge since *JW Library* is free.
+> 📌 **NOTE:** Though we are using the `--purchase` flag, there is no charge since *JW Library* is free; it's simply there to get the license if the account doesn’t have it yet
 
 The downloaded file will be saved in your Mac's `Downloads` directory. It should be named `JWLibrary-15.6.ipa`. Check to see if it's there.
 
