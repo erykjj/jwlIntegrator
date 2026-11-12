@@ -4,6 +4,8 @@
 
 ### Added
 
+- Added roll-back script for iOS (to execute on a Mac)
+
 ### Changed
 
 ### Fixed
