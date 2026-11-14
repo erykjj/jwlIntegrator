@@ -62,10 +62,20 @@ then:
 # /data/local/jwlIntegrator/jwlIntegrator <JWPUB archive>
 ```
 
-### iOS
+### iOS   <mark>simple script</mark>
 
-You will need to [roll back to v15.6](https://github.com/erykjj/jwlIntegrator/blob/main/iOS_guide.md).
-Here is a script to help with that: [rollback.sh](https://github.com/erykjj/jwlIntegrator/releases/latest/download/rollback.sh)
+You will need to roll back to *JW Library* v15.6, for which you will require
+
+- **Mac**
+- iPhone or iPad
+- USB cable
+- Apple Account
+- Internet connection
+
+Search for and open *Terminal* on your Mac. Inside *Terminal*, run (copy and paste or type) the following command:
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/erykjj/jwlIntegrator/main/bin/rollback.sh)"
+```
 
 
 <p align="center"><img src=".github/inf.png" width=50 title="proxy+infiniti@ik.me"></p>
